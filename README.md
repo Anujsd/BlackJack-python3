@@ -1,4 +1,4 @@
-# BlackJack
+# BlackJack- Python3
 This is simple terminal based BlackJack game made in python 3
 
 You can run this game easily by typing following command.
